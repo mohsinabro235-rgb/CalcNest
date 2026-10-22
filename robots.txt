@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://YOURSITE.pages.dev/sitemap.xml
+Sitemap: https://empty-violet-0c2f.mohsinabro235.workers.dev/sitemap.xml
