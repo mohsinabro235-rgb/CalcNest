@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://empty-violet-0c2f.mohsinabro235.workers.dev/sitemap.xml
+Sitemap: https://calcnest-beta.vercel.app/sitemap.xml
