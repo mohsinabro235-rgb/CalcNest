@@ -43,3 +43,15 @@ summary{cursor:pointer;font-weight:600}details p{margin:10px 0 0;color:var(--mut
 footer{border-top:1px solid var(--line);background:var(--card);padding:28px 20px;text-align:center;color:var(--mut);font-size:.9rem}
 footer a{color:var(--mut);margin:0 10px;text-decoration:none;font-weight:600}footer a:hover{color:var(--num)}
 @media(max-width:640px){.hero{padding:44px 20px 96px}.tool{padding:20px}.bar{gap:10px}}
+
+.btn{display:inline-block;background:linear-gradient(135deg,var(--p1),var(--p2));color:#fff;border-radius:12px;padding:13px 28px;font-weight:700;text-decoration:none;box-shadow:0 10px 22px -10px rgba(110,60,255,.7)}.btn:hover{transform:translateY(-2px)}
+
+.row{display:flex;flex-wrap:wrap;gap:10px}.row button{margin-top:0}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;word-break:break-all;font-size:1.3rem}
+.ok{color:#067647;font-weight:600;margin-top:14px}
+@media(prefers-color-scheme:dark){.ok{color:#32D583}}
+input[type=checkbox]{width:auto;accent-color:#5B4BFF}input[type=range]{padding:0;accent-color:#5B4BFF}
+.checks{display:flex;flex-wrap:wrap;gap:6px 22px;margin:18px 0 4px}.checks label{display:inline-flex;gap:8px;align-items:center;margin:0}
+.qrbox{display:inline-block;margin-top:20px;background:#fff;padding:12px;border-radius:14px;border:1px solid var(--line)}.qrbox:empty{display:none}
+.qrbox canvas{display:none}.qrbox img{display:block}
+.ft{margin:0 0 16px;line-height:2.1}.ft a{font-weight:500}
