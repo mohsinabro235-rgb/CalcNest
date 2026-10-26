@@ -55,3 +55,10 @@ input[type=checkbox]{width:auto;accent-color:#5B4BFF}input[type=range]{padding:0
 .qrbox{display:inline-block;margin-top:20px;background:#fff;padding:12px;border-radius:14px;border:1px solid var(--line)}.qrbox:empty{display:none}
 .qrbox canvas{display:none}.qrbox img{display:block}
 .ft{margin:0 0 16px;line-height:2.1}.ft a{font-weight:500}
+
+.how p{margin:0 0 12px}.how h3{margin:24px 0 10px;font-size:1.15rem}
+.tbl{overflow-x:auto;border:1px solid var(--line);border-radius:14px;background:var(--card)}
+.tbl table{border-collapse:collapse;width:100%;font-size:.95rem}.tbl th,.tbl td{padding:10px 14px;text-align:left;border-bottom:1px solid var(--line);white-space:nowrap}
+.tbl th{background:linear-gradient(135deg,rgba(91,75,255,.1),rgba(18,194,233,.1));font-weight:700}.tbl tr:last-child td{border-bottom:0}
+
+.how ol,.how ul{padding-left:22px}.how li{margin-bottom:6px}.how h2{margin-top:30px;font-size:1.3rem}.tool.how{margin-top:-64px}
